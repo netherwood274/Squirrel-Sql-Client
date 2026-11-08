@@ -205,3 +205,6 @@ This repository serves as the official landing page for SQuirreL SQL Client. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SQuirreL SQL Client today!**
+
+---
+**Last updated:** 2026-11-08 18:35:18 UTC
