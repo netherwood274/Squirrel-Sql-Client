@@ -207,4 +207,4 @@ This repository serves as the official landing page for SQuirreL SQL Client. The
 **Get the most recent version of SQuirreL SQL Client today!**
 
 ---
-**Last updated:** 2026-11-13 21:43:44 UTC
+**Last updated:** 2026-11-14 01:54:10 UTC
